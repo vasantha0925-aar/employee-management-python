@@ -37,11 +37,11 @@ No external/third-party libraries are required — built entirely using Python's
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rejitha2503/<your-repo-name>.git
+   git clone https://github.com/vasantha0925/employee-management-python.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd <your-repo-name>
+   cd employee-management-python
    ```
 3. Run the script:
    ```bash
@@ -85,7 +85,7 @@ emp_id:-> Name,Age,Salary,Department
 Example:
 ```
 101:-> Rejitha,22,45000,IT
-102:-> Kumar,25,38000,HR
+102:-> vasantha,25,38000,HR
 ```
 
 > ⚠️ Note: Since data is stored as comma-separated text (not JSON), make sure employee names/departments don't contain commas.
@@ -115,6 +115,6 @@ Example:
 
 ## 👩‍💻 Author
 
-**Rejitha**  
-Final Year B.E. CSE Student | Aspiring Data Analyst  
-[LinkedIn](https://linkedin.com/in/rejitha2503) | [GitHub](https://github.com/rejitha2503)
+**vasantha**  
+Final Year B.E. CSE Student | Aspiring Software Enginering  
+[LinkedIn](https://www.linkedin.com/in/vasantha-n-a5ab63373?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/vasantha0925)
